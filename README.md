@@ -13,7 +13,7 @@
 
 | Project | Live Stars | Description |
 | :--- | :--- | :--- |
-| **Aurora** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/aurora-bioscience?style=flat-square&color=00d2ff) | Bioscience toolset & Homebrew tap. |
+| **Aurora** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/aurora?style=flat-square&color=00d2ff) | Bioscience toolset & Homebrew tap. |
 | **AgroNauts** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/agronauts?style=flat-square&color=00d2ff) | Sustainable IoT farming telemetry. |
 | **GPR-Hub** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/gpr-hub-cli?style=flat-square&color=00d2ff) | Ground Penetrating Radar analysis. |
 | **Astro Bio-OS** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/Astro_Bio-OS?style=flat-square&color=00d2ff) | Biological navigation environment. |
