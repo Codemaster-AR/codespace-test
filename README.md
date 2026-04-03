@@ -1,35 +1,31 @@
 # 🛸 codemaster-ar | System Overview
 
-### 📊 Vital Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codemaster-ar&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster-ar&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaster-ar&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster-ar&layout=compact&theme=tokyonight)
-
-**Total Profile Views**
-![Views](https://komarev.com/ghpvc/?username=codemaster-ar&color=00d2ff&style=flat-square&label=PROFILE+VIEWS)
+**Total System Hits** ⚡ ![Views](https://komarev.com/ghpvc/?username=codemaster-ar&color=00d2ff&style=flat-square&label=ACCESS_LOGS)
 
 ---
 
-### 📂 Active Repositories & Star Trackers
+### 📂 Repository Telemetry
 
-| Project | Live Status | Description |
+| Project | Live Stars | Description |
 | :--- | :--- | :--- |
-| **Aurora Bioscience** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/aurora?style=flat-square&label=Stars&color=blue) | Specialized toolset for bioscience applications. |
-| **AgroNauts** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/agronauts?style=flat-square&label=Stars&color=blue) | Sustainable farming and IoT telemetry system. |
-| **GPR-Hub** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/gpr-hub-cli?style=flat-square&label=Stars&color=blue) | Ground Penetrating Radar analysis suite. |
-| **Astro Bio-OS** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/Astro_Bio-OS?style=flat-square&label=Stars&color=blue) | OS environment for biological navigation. |
-| **AI Duel** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/ai.duel?style=flat-square&label=Stars&color=blue) | Competitive LLM integration platform. |
+| **Aurora** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/aurora-bioscience?style=flat-square&color=00d2ff) | Bioscience toolset & Homebrew tap. |
+| **AgroNauts** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/agronauts?style=flat-square&color=00d2ff) | Sustainable IoT farming telemetry. |
+| **GPR-Hub** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/gpr-hub-cli?style=flat-square&color=00d2ff) | Ground Penetrating Radar analysis. |
+| **Astro Bio-OS** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/Astro_Bio-OS?style=flat-square&color=00d2ff) | Biological navigation environment. |
+| **AI Duel** | ![Stars](https://img.shields.io/github/stars/codemaster-ar/ai.duel?style=flat-square&color=00d2ff) | Competitive LLM integration. |
 
 ---
 
-### 🛠️ Development Environment
+### 🛠️ Runtime Environment
 
 ```python
 class Developer:
-    def __init__(self):
-        self.alias = "Anay Rustogi"
-        self.core  = ["Python", "React", "Electron", "C++"]
-        self.hardware = ["Arduino", "LEGO Spike Prime"]
-
-    def current_focus(self):
-        return "Building Quantal & Agro-OS"
+    alias    = "Anay Rustogi"
+    stack    = ["Python", "React", "Electron", "C++"]
+    hardware = ["Arduino", "LEGO Spike Prime"]
+    status   = "Building Quantal & Agro-OS"
